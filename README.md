@@ -6,10 +6,10 @@ Sóc estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** a l'**
 
 ### 🚀 Sobre mi
 
-- 🎓 Estudiant de **DAM** a l'**ITB**.
-- 💻 Enfocat al desenvolupament d'aplicacions multiplataforma, mòbils i web.
-- 🛠️ M'agrada construir solucions completes, des de la interfície d'usuari fins a la lògica de backend i automatitzacions.
-- 📍 Barcelona, Catalunya.
+-  Estudiant de **DAM** a l'**ITB**.
+-  Enfocat al desenvolupament d'aplicacions multiplataforma, mòbils i web.
+-  M'agrada construir solucions completes, des de la interfície d'usuari fins a la lògica de backend i automatitzacions.
+-  Barcelona, Catalunya.
 
 ---
 
