@@ -27,6 +27,7 @@ Sóc estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** a l'**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GerardMaestre&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GerardMaestre&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
